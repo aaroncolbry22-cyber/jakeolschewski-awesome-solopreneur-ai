@@ -200,6 +200,7 @@ Video is the highest-converting content format. These tools let you produce prof
 - [Descript](https://descript.com) - Edit video by editing the transcript. Delete filler words in bulk, overdub your voice, add captions. The most revolutionary video editor for solopreneurs. `Freemium`
 - [CapCut](https://capcut.com) - Free video editor with AI auto-captions, background removal, noise reduction, and templates. Dominates short-form content. `Freemium`
 - [OpusClip](https://opus.pro) - Upload a long video and AI cuts it into viral short clips with captions and hook scoring. `Freemium`
+- [ReelWorkshop](https://reelworkshop.com) - Browser compilation maker: import your own clips, arrange and trim them on a timeline, preview, and export vertical 9:16 H.264 for TikTok, Reels, and Shorts. Editing and preview are free; finished export is on Starter. `Freemium`
 - [Submagic](https://submagic.co) - AI-powered captioning and short-form video editor. Produces B-roll, emojis, and captions automatically. `Freemium`
 - [RunwayML](https://runwayml.com) - Professional-grade AI video tools including text-to-video, video editing, and green screen removal. `Freemium`
 - [Loom](https://loom.com) - Record your screen and face simultaneously. AI generates titles, summaries, and chapters. Standard tool for client communication. `Freemium`
